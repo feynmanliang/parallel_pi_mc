@@ -1,0 +1,8 @@
+[package]
+name = "parallel-pi-mc"
+version = "0.1.0"
+authors = ["Feynman Liang <feynman.liang@gmail.com>"]
+
+[dependencies]
+rand = "0.3.15"
+rayon = "0.8.2"
